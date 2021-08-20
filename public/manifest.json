@@ -1,0 +1,6 @@
+{
+  "short_name": "Feedback hub",
+  "name": "Feedback hub application",
+  "start_url": ".",
+  "display": "standalone"
+}
